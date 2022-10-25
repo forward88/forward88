@@ -14,7 +14,7 @@
 
 - 🌱 Have a deep understanding of mobile/web software application, and have the business acumen to make the projects successful.
 
-- 📫 How to reach me **felix.ma1991823@gmail.com
+- 📫 How to reach me felix.ma1991823@gmail.com
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
