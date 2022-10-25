@@ -8,13 +8,13 @@
 </p>
 
 
-- 🌱 Skilled and results-oriented software architect and engineer with over 9 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.**
+- 🌱 Skilled and results-oriented software architect and engineer with over 9 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
 - 🌱 Proven ability to leverage full-stack knowledge and experience to build out ideas with modern technologies and best practices. 
 
-- 🌱 Have a deep understanding of mobile/web software application, and have the business acumen to make the projects successful.**
+- 🌱 Have a deep understanding of mobile/web software application, and have the business acumen to make the projects successful.
 
-- 📫 How to reach me **felix.ma1991823@gmail.com**
+- 📫 How to reach me **felix.ma1991823@gmail.com
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
