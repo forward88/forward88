@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Felix Ma</h1>
-<h3 align="center">A Senior React/React Native/Node.js/ASP.NET Developer from Canada</h3>
-
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=forward88&row=1" alt="forward88" />
